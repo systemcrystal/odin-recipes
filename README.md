@@ -1,0 +1,1 @@
+Website with multiple recipes stored in various separate pages that are cross linked
